@@ -1,0 +1,12 @@
+#Ping-Pong app
+This is a project that takes anumber from a user and returns a range of numbers from 1 to the choen number with the following exceptions:
+
+- Numbers divisible by 3 are replaced with "ping"
+- Numbers divisible by 5 are replaced with "pong"
+- numbers divisible by both 3 and 5 are replaced with "pingpong"
+
+
+##Versioning
+I use SemVer for versioning
+##Author
+- Anthony Shikanga
